@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Keolat
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning software engineering
+- 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ... theophilusolaseye@gmail.com
 
 <!---
